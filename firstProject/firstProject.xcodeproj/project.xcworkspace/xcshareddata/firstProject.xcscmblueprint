@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7D378431B085E4EF59B2EC5A811A0565C0B95851",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7D378431B085E4EF59B2EC5A811A0565C0B95851" : 9223372036854775807,
+    "8CEE2920F82777E0800DD1AD4CACD1E31E585E07" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "765D3A4A-9CCF-4C30-94C2-3E785B5E1A81",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7D378431B085E4EF59B2EC5A811A0565C0B95851" : "firstproject\/",
+    "8CEE2920F82777E0800DD1AD4CACD1E31E585E07" : "firstproject\/firstProject\/firstProject\/FFmpeg\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "firstProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "firstProject\/firstProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ioanabonea\/firstproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D378431B085E4EF59B2EC5A811A0565C0B95851"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FFmpeg\/FFmpeg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CEE2920F82777E0800DD1AD4CACD1E31E585E07"
+    }
+  ]
+}
